@@ -1,5 +1,5 @@
  
-GAT and GitHub learning resources
+Git and GitHub learning resources
 In this article
 Using Git
 Using GitHub
